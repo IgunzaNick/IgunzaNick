@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nixon Igunza</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.website-files.com%2F5fda1c8bbc942d57d8dae4d5%2F60dc47db2b30f8e8d0d19186_legacy%2520code.png&imgrefurl=https%3A%2F%2Fwww.stepsize.com%2Fblog%2Fengineers-guide-to-legacy-code-and-technical-debt&tbnid=6TyjqrDU4pAZ0M&vet=10CGIQMyjZAmoXChMI2OGwjqqH-QIVAAAAAB0AAAAAEAQ..i&docid=gVYBSQile7ryAM&w=1310&h=770&q=gif%20coding%20image&ved=0CGIQMyjZAmoXChMI2OGwjqqH-QIVAAAAAB0AAAAAEAQ">
+<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<img align="right" alt="Coding" width="400" src="https://marketingweek.imgix.net/content/uploads/2017/05/12103909/Coding-body-image-.jpg?auto=compress,format,&crop=faces,entropy,edges&fit=crop&q=60&w=750&h=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igunzanick&label=Profile%20views&color=0e75b6&style=flat" alt="igunzanick" /> </p>
 
