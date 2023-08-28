@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Java, React, Kotlin, Web Development, Mobile Develpment, API's**
+- 💬 Ask me about **Java, React, Kotlin, Web Development, Mobile Develpment, API's, Websockets**
 
 - 📫 How to reach me **nixonmugasia@gmail.com**
 
