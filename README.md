@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nixon Igunza</h1>
+<h1 align="center">Hi 👋, I'm Nixon Igunza Mugasia</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://marketingweek.imgix.net/content/uploads/2017/05/12103909/Coding-body-image-.jpg?auto=compress,format,&crop=faces,entropy,edges&fit=crop&q=60&w=750&h=">
 
